@@ -1,6 +1,6 @@
 @font-face {
     font-family: Garet-Book;
-    src: url(/direeectory/fonts/Garet-Book.ttf);
+    src: url(direeectory/fonts/Garet-Book.ttf);
 }
 
 h1 {
@@ -56,4 +56,5 @@ hr {
 
 .goback:hover {
     filter: invert(1);
+
 }
